@@ -6,7 +6,8 @@ A custom dark theme for Omarchy based on the Tokyo Night color palette with cura
 
 ## Screenshot
 
-![MK Night Theme Screenshot](preview.png)
+<img width="2573" height="570" alt="screenshot" src="https://github.com/user-attachments/assets/2122e828-cc82-4f2d-9848-1997dec636f4" />
+
 
 ## Installation
 
